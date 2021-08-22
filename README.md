@@ -1,4 +1,4 @@
-# HashiCorp Terraform Enterprise Workshop
+# HashiCorp Terraform Cloud Business Workshop
 
 [Terraform](https://www.terraform.io/)はHashiCorpが中心に開発をするOSSのプロビジョニングツールです。このレイヤではほぼ業界標準のソフトウェアと位置付けられており、国内外のコミュニティなども非常に活発です。
 
